@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+# name: (.alert js/window $1)
+# key: alert
+# --

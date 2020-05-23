@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: aprint
+# key: aprint
+# --
+
+(.log js/console (clj->js $1))
